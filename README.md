@@ -1,2 +1,4 @@
 # Varad-s-new-custom-dev-board-
 This has the schematics for my custom dev board that i developed with auto programming transistors, a good set of decoupling capacitors, an AMS 1117 voltage regulators, USB C connectivity, and some mildy drunk IO pin placement, deal with it
+
+**THIS WAS DESIGNED WITH KICAD, BECAUSE KICAD IS THE MOST GOATED ONE**
